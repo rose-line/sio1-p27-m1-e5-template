@@ -1,0 +1,13 @@
+# Fichiers compilés
+bin/
+*.class
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs et temporaires
+*.log
+*.tmp
+
+.vscode/
